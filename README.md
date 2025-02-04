@@ -10,6 +10,10 @@ I can usually do :
 - Dev my own game on UE5 with an artist.
 - A web site for our studio of school.
 - I started to dev little thing on Minecraft
+  
+## Language 🏳️
+In dev :
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <!--
 **LimuleGit/LimuleGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
