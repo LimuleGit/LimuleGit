@@ -1,5 +1,15 @@
-## Hi there 👋
+<div align="center">
+    <img src="Frieren_Nuts_Face.png" alt="Banner">
+</div>
 
+## G'day 👋
+
+You can ask me anything you want I should maybe do something, I’ll go ahead and answer some questions to save some time:
+
+- Working on my own games from time to time.
+- Currently learning C++ and all the bells and whistles that come with it!
+- I started programming with Minecraft by making plugins for servers then moved to making Minecraft clients and that hooked me into learning game dev and game engines.
+- 
 <!--
 **LimuleGit/LimuleGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
