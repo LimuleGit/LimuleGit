@@ -32,7 +32,7 @@ I can usually do :
 <p><a target="_blank" href="https://twitter.com/@sofaz13" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.youtube.com/@Liimulee" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimuleGit&show_icons=true&theme=onedark)
 <!--
 **LimuleGit/LimuleGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
